@@ -9,6 +9,6 @@
 		"banana_peppers",
 		"green_peppers"
 	],
-	"img": "//localhost:3000/assets/pizzas/meat-haters.png",
+	"img": "/assets/pizzas/meat-haters.png",
 	"username": "ryan"
 }

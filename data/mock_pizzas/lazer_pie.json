@@ -6,6 +6,6 @@
 		"mozzarella_cheese",
 		"laser_beams"
 	],
-	"img": "//localhost:3000/assets/pizzas/lazer-pie.png",
+	"img": "/assets/pizzas/lazer-pie.png",
 	"username": "ryan"
 }

@@ -7,6 +7,6 @@
 		"pepperoni",
 		"ham"
 	],
-	"img": "//localhost:3000/assets/pizzas/red-forever.png",
+	"img": "/assets/pizzas/red-forever.png",
 	"username": "jim"
 }

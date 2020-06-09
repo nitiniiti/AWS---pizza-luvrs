@@ -3,6 +3,6 @@
 	"toppings": [
 		"money"
 	],
-	"img": "//localhost:3000/assets/pizzas/filthy-rich.png",
+	"img": "/assets/pizzas/filthy-rich.png",
 	"username": "kathy"
 }

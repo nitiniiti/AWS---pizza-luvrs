@@ -7,6 +7,6 @@
 		"rainbows",
 		"money"
 	],
-	"img": "//localhost:3000/assets/pizzas/foul-wizard.png",
+	"img": "/assets/pizzas/foul-wizard.png",
 	"username": "kathy"
 }
