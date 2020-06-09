@@ -14,7 +14,7 @@
       <ul id="toppings">
         {{#each toppings}}
         <li class="topping" id="{{id}}">
-          <img src='//pizza-luvrs-nitiniiti.s3.amazonaws.com/toppings/{{previewImage}}' />
+          <img src='//localhost:3000/assets/toppings/{{previewImage}}' />
           <div class="label">{{name}}</div>
         </li>
         {{/each}}
@@ -23,5 +23,5 @@
     <div id="userInfo" data-username="{{auth.credentials.user.username}}" style="display:none;"></div>
   </div>
   {{> footer}}
-  <script src="//pizza-luvrs-nitiniiti.s3.amazonaws.com/js/make.js"></script>
+  <script src="//localhost:3000/assets/js/make.js"></script>
 </body>

@@ -9,6 +9,6 @@
 		"banana_peppers",
 		"green_peppers"
 	],
-	"img": "//pizza-luvrs-nitiniiti.s3.amazonaws.com/pizzas/meat-haters.png",
+	"img": "//localhost:3000/assets/pizzas/meat-haters.png",
 	"username": "ryan"
 }

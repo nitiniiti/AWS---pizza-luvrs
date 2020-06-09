@@ -11,6 +11,6 @@
 		"ham",
 		"green_peppers"
 	],
-	"img": "//pizza-luvrs-nitiniiti.s3.amazonaws.com/pizzas/best-pizza.png",
+	"img": "//localhost:3000/assets/pizzas/best-pizza.png",
 	"username": "ryan"
 }

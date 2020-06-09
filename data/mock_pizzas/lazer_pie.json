@@ -6,6 +6,6 @@
 		"mozzarella_cheese",
 		"laser_beams"
 	],
-	"img": "//pizza-luvrs-nitiniiti.s3.amazonaws.com/pizzas/lazer-pie.png",
+	"img": "//localhost:3000/assets/pizzas/lazer-pie.png",
 	"username": "ryan"
 }
